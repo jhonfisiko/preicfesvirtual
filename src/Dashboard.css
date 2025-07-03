@@ -1,0 +1,54 @@
+.premium-dark {
+  background: #181c24 !important;
+  color: #f1f1f1 !important;
+}
+.premium-dark .sidebar,
+.premium-dark .main-content,
+.premium-dark .login-card,
+.premium-dark .modal-content {
+  background: #23283a !important;
+  color: #f1f1f1 !important;
+}
+.premium-dark .progress-bar,
+.premium-dark .progress-fill {
+  background: #2d3748 !important;
+}
+.premium-dark .stat-card,
+.premium-dark .subject-card {
+  background: #23283a !important;
+  color: #f1f1f1 !important;
+  border-color: #2d3748 !important;
+}
+.premium-dark .option-button {
+  background: #23283a !important;
+  color: #f1f1f1 !important;
+  border-color: #2d3748 !important;
+}
+.premium-dark .option-button.correct {
+  background: #22543d !important;
+  color: #c6f6d5 !important;
+  border-color: #38a169 !important;
+}
+.premium-dark .option-button.incorrect {
+  background: #742a2a !important;
+  color: #fed7d7 !important;
+  border-color: #e53e3e !important;
+}
+.premium-dark .next-button,
+.premium-dark .start-exam-button,
+.premium-dark .stop-exam-button {
+  background: linear-gradient(135deg, #23283a 0%, #667eea 100%) !important;
+  color: #f1f1f1 !important;
+}
+.premium-dark .logout-button {
+  background: linear-gradient(135deg, #742a2a 0%, #e53e3e 100%) !important;
+  color: #f1f1f1 !important;
+}
+.premium-dark .exam-settings {
+  background: #23283a !important;
+  color: #f1f1f1 !important;
+}
+.premium-dark .question-image-container {
+  background: #23283a !important;
+  border-color: #2d3748 !important;
+} 
